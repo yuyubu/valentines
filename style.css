@@ -161,3 +161,7 @@
   display: inline-block;
   font-family: Cardo;
 }
+
+::-webkit-scrollbar {
+  width: 0vh;
+}
